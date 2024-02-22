@@ -18,4 +18,37 @@ O objetivo principal deste repositório é simplificar e esclarecer o processo d
 - Equipes que buscam padronizar suas mensagens de commit para melhorar a colaboração.
 - Iniciantes que desejam entender e começar a usar Conventional Commits.
 
+## Guia de comandos :mag:
+
+```
+$ git commit -m "fix(validation): Corrige validação de entrada no formulário"
+```
+🐛 Correção de Bug
+#
+```
+$ git commit -m "refactor(api): Reorganiza a estrutura do serviço de API"
+```
+🔄 Refatoração de Código
+#
+```
+$ git commit -m "docs(readme): Atualiza instruções de instalação no README"
+```
+📝 Atualização de Documentação
+#
+```
+$ git commit -m "style(ui): Ajusta estilos de botões na página de perfil"
+```
+🎨 Ajuste de Estilo
+#
+```
+$ git commit -m "test(auth): Adiciona testes unitários para serviço de autenticação"
+```
+✅ Adição de Testes
+#
+```
+$ git commit -m "ci(pipeline): Configura pipeline de CI para deploys automatizados"
+```
+⚙️ Configuração de Integração Contínua
+#
+
 Comece agora e faça seus commits serem mais informativos e significativos! 🌟
