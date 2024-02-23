@@ -32,31 +32,43 @@ Bem-vindo ao **Conventional Commits Cheatsheet**! 🚀 Este repositório é uma 
 ```
 $ git commit -m "fix(validation): Corrige validação de entrada no formulário"
 ```
+![fix](https://github.com/darneees/conventional-commits-cheatsheet/assets/79709843/cc634406-15dd-432e-8434-242091165304)
+
 🐛 Correção de Bug
 #
 ```
 $ git commit -m "refactor(api): Reorganiza a estrutura do serviço de API"
 ```
+![refactor](https://github.com/darneees/conventional-commits-cheatsheet/assets/79709843/5a3b88da-fe0a-4b74-8930-1a2d7e60a04d)
+
 🔄 Refatoração de Código
 #
 ```
 $ git commit -m "docs(readme): Atualiza instruções de instalação no README"
 ```
+![doc](https://github.com/darneees/conventional-commits-cheatsheet/assets/79709843/67ad95d9-cdd1-4f18-97f1-197681adc9cb)
+
 📝 Atualização de Documentação
 #
 ```
 $ git commit -m "style(ui): Ajusta estilos de botões na página de perfil"
 ```
+![style](https://github.com/darneees/conventional-commits-cheatsheet/assets/79709843/a37078f3-d703-414d-b639-651baf13c917)
+
 🎨 Ajuste de Estilo
 #
 ```
 $ git commit -m "test(auth): Adiciona testes unitários para serviço de autenticação"
 ```
+![test](https://github.com/darneees/conventional-commits-cheatsheet/assets/79709843/805bf46a-54b5-4934-92df-9564f6f8d662)
+
 ✅ Adição de Testes
 #
 ```
 $ git commit -m "ci(pipeline): Configura pipeline de CI para deploys automatizados"
 ```
+![ci](https://github.com/darneees/conventional-commits-cheatsheet/assets/79709843/e943f79e-5dbd-4c97-9f20-41bff64bede0)
+
 ⚙️ Configuração de Integração Contínua
 #
 
