@@ -9,7 +9,6 @@ Bem-vindo ao **Conventional Commits Cheatsheet**! 🚀 Este repositório é uma 
 ## :triangular_flag_on_post: O que você encontrará aqui?
 
 - Exemplos detalhados de commits semânticos em diferentes contextos.
-- Guias práticos para integração com ferramentas de versionamento semântico.
 - Modelos de mensagens de commit para fácil utilização.
 
 ## :desktop_computer: Para quem é este repositório?
