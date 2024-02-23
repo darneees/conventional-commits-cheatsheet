@@ -2,9 +2,9 @@
 
 Bem-vindo ao **Conventional Commits Cheatsheet**! 🚀 Este repositório é uma referência rápida e um guia prático para ajudar você a dominar o uso de commits semânticos através do Conventional Commits.
 
-## 🤔 Por que este repositório?
+## Documentação :books:
 
-O objetivo principal deste repositório é simplificar e esclarecer o processo de criação de mensagens de commit significativas e padronizadas. Utilizando as melhores práticas do Conventional Commits, você será capaz de comunicar suas alterações de forma clara e eficaz.
+- [Documentação Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/)
 
 ## ✨ O que você encontrará aqui?
 
@@ -17,6 +17,15 @@ O objetivo principal deste repositório é simplificar e esclarecer o processo d
 - Desenvolvedores que desejam adotar boas práticas de mensagens de commit.
 - Equipes que buscam padronizar suas mensagens de commit para melhorar a colaboração.
 - Iniciantes que desejam entender e começar a usar Conventional Commits.
+
+## 🤔 Porque utilizar Conventional Commits
+
+- Criação automatizada de CHANGELOGs.
+- Determinar automaticamente alterações no versionamento semântico (com base nos tipos de commits).
+- Comunicar a natureza das mudanças para colegas de equipe, o público e outras partes interessadas.
+- Disparar processos de build e deploy.
+- Facilitar a contribuição de outras pessoas em seus projetos, permitindo que eles explorem um histórico de commits melhor estruturado.
+
 
 ## Guia de comandos :mag:
 
